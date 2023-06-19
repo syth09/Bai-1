@@ -1,0 +1,66 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-weight: 700;
+}
+
+.splash-img {
+  float: left;
+  height: 100vh;
+  width: 30vw;
+}
+
+.logo {
+  margin-top: 24px;
+  padding-left: 3em;
+  float: left;
+}
+
+.my-role {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.content-box {
+  margin-left: 270px;
+  float: left;
+  height: 18em;
+  padding-left: 3em;
+  padding-top: 18rem;
+  width: 500px;
+  border-radius: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid grey;
+  margin: 10px;
+}
+
+.engineers {
+  width: 218px;
+  height: 178px;
+  padding-top: 34px;
+  margin-right: 10px;
+}
+
+.customers {
+  width: 218px;
+  height: 178px;
+  margin-left: 10px;
+  padding-top: 34px;
+}
